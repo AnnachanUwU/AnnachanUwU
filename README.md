@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anna Lisa</h1>
 <h3 align="center">A passionate mediaproduction student from Germany</h3>
-![Drache klein](https://github.com/AnnachanUwU/AnnachanUwU/assets/116390780/d4e13574-d335-465a-b326-8fc31950c9c7)
+<img src= ![Drache klein](https://github.com/AnnachanUwU/AnnachanUwU/assets/116390780/d4e13574-d335-465a-b326-8fc31950c9c7)>
 
 
 
